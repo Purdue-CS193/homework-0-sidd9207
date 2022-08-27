@@ -1,3 +1,8 @@
+# Siddharth Prabakar's First CS193 Homework
+Favorite things about CS 193:
+- We get to learn new tools like github for use in future classes
+- We gain skills that will help us succeed in harder classes that we'll take next semester and after
+- The lecturers seem like pretty cool people
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
